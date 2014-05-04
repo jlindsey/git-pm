@@ -25,7 +25,7 @@ setup(name="git-pm",
         "gitpython (>=0.1.7)",
         "markdown (>=2.4)",
         "flask (>=0.10.1)",
-      ],
+        ],
       package_dir={'gitpm': 'lib'},
       scripts=["bin/gitpm"],
 )
