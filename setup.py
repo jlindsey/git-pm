@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-with open('README.txt') as readme:
+with open('README.rst') as readme:
   long_description = readme.read()
 
 setup(name="git-pm",
