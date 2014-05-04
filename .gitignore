@@ -1,0 +1,12 @@
+# Python
+*.pyc
+
+# Distutils
+build/
+
+# Editor
+*~
+
+# OS
+.DS_Store
+
