@@ -1,5 +1,0 @@
-#!python
-
-from gitpm.core import Runner
-Runner().run()
-

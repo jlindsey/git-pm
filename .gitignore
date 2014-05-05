@@ -4,6 +4,9 @@
 # Distutils
 build/
 
+# Setuptools
+*.egg-info
+
 # Editor
 *~
 
